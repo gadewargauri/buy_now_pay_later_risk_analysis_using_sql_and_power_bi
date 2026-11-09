@@ -61,11 +61,11 @@ BNPL-Credit-Risk-Analysis/
 ## Dataset and limitations
 The synthetic dataset covers purchase dates from January 2025 through October 2026. Payment outcomes are simulated. Some installment due dates fall after the simulation cutoff and are labelled `Upcoming`. For this reason, results are suitable for SQL practice and dashboard development, not real-world credit underwriting.
 
-## Resume-ready project description
+
 **BNPL Credit Risk & Repayment Behaviour Analysis | MySQL, SQL, Power BI**
 - Designed a relational database to analyze BNPL customer, transaction, payment-plan and installment data.
 - Used SQL joins, CTEs, subqueries and window functions to examine late payments, repeat defaults and repayment trends.
 - Compared repayment outcomes across customer income bands, credit-score groups, providers and merchant categories.
 - Developed a Power BI dashboard to monitor repayment performance and customer risk segments.
 
-Only include the Power BI deliverable after you have built and saved the `.pbix` report. Add quantified outcomes only after calculating them from the dataset.
+

@@ -1,0 +1,11 @@
+Synthetic dataset generated for BNPL portfolio project
+Customers: 1,000
+Transactions: 4,583
+Payment plans: 4,583
+Installments: 17,734
+Installment statuses:
+payment_status
+Paid         14869
+Late          1500
+Upcoming       928
+Defaulted      437
